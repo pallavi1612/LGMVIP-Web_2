@@ -1,0 +1,21 @@
+body{
+    background-color: pink;
+}
+.row{
+    justify-content: center;
+    text-align: center;
+    width: 74vw;
+    
+}
+.card{
+    margin: 13px;
+    justify-content: center;
+    border: 2px solid black;
+    border-radius: 15px;
+    background-color: #91eef3;
+    box-shadow: 6px 9px 20px -2px black;
+}
+.imgBox {
+    justify-content: center;
+    text-align: center;
+}
